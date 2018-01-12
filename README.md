@@ -19,7 +19,3 @@
 결과
 ----
 ![Alt text](wordcloud.jpg)
-
-
-참고
-https://goo.gl/7juEKu
